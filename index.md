@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Foyzul Hassan  <a href="/images/foyzul.jpeg" target="_blank"><img src="images/foyzul.jpeg" alt="Foyzul Hassan" style="width:275px;" align="right"></a>
+# Foyzul Hassan  <a href="/images/foyzul.jpg" target="_blank"><img src="images/foyzul.jpg" alt="Foyzul Hassan" style="width:275px;" align="right"></a>
 Ph.D. Student, Computer Science <br>
 University of Texas at San Antonio <br>
 
