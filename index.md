@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/foyzulhassan/foyzulhassan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Foyzul Hassan  <a href="/images/foyzul.jpeg" target="_blank"><img src="images/foyzul.jpeg" alt="Foyzul Hassan" style="width:275px;" align="right"></a>
+Ph.D. Student, Computer Science <br>
+University of Texas at San Antonio <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<em>Curriculum Vitae: </em><a href="/files/Foyzul_Hassan_CV.pdf" target="_blank">PDF</a>  <small>(Feb, 2018)</small> <br>
+<em>Email: </em><a href="mailto:foyzul.hassan@my.utsa.edu">foyzul.hassan@my.utsa.edu</a> | <a href="mailto:foyzul.hassan@gmail.com">foyzul.hassan@gmail.com</a> <br>
 
-### Markdown
+<hr width="600px">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<hr style="height:10pt; visibility:hidden;" />
 
-```markdown
-Syntax highlighted code block
+## About Me
+<a href="http://www.utsa.edu/" target="_blank"><img src="images/UTSA.png" alt="UTSA" style="width:275px;" align="right"></a>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<p align="justify" style="max-width:600px">
+I am a PhD candidate in Computer Science Department at <em><a class="tosu" href="http://www.utsa.edu/" target="_blank">UT San Antonio</a></em>, working under the supervision of <a href="http://www.cs.utsa.edu/~xwang/" target="_blank">Dr. Xiaoyin Wang</a>. My area of research focus is in Software Build Optimization, Automatic Repair of Build Script and Continuous Integration.
+<p align="justify" style="max-width:600px">
+Before joining PhD program, I worked in different roles of software engineering. I have 8+ years of industry experience in OOP, Software Quality Assurance, Test Automation, Release Management. I earned my bachelor's degree in Computer Science and Engineering from Military Institute of Science and Technology(MIST), Bangladesh. 
 
-1. Numbered
-2. List
+## Research Works
+<p align="justify" style="max-width:600px">
+Find more about the work I've done on my  <a href="/research/" target="_blank">research page</a>.
+</p>
+<!-- <center> <em><a class="tosu"> Scroll down for news! </a></em></center> -->
 
-**Bold** and _Italic_ and `Code` text
+## News
 
-[Link](url) and ![Image](src)
-```
+<table style="white-space: nowrap;">
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+	<tr>
+	<td width="75"><b>Dec, 17'</b></td>
+	<td> Our paper on automatic fix of build configuration files is accepted in ICSE'18 </td>
+	</tr>
+	
+	<tr>
+	<td width="75"><b>Jun, 17'</b></td>
+	<td>Our paper on software buildability is accepted in ESEM'17</td>
+	</tr>
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/foyzulhassan/foyzulhassan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</table>
