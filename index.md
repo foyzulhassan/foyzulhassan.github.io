@@ -14,7 +14,7 @@ University of Texas at San Antonio <br>
 <hr style="height:10pt; visibility:hidden;" />
 
 ## About Me
-<a href="http://www.utsa.edu/" target="_blank"><img src="images/UTSA.png" alt="UTSA" style="width:275px;" align="right"></a>
+<a href="http://www.utsa.edu/" target="_blank"><img src="images/UTSA.jpg" alt="UTSA" style="width:275px;" align="right"></a>
 
 
 <p align="justify" style="max-width:600px">
