@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /research/
+permalink: /research/projects/
 ---
 
 ## Feasibility and Challenges of Automatic Software Building
