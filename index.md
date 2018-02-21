@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Foyzul Hassan  <a href="/images/foyzul.jpg" target="_blank"><img src="images/foyzul.jpg" alt="Foyzul Hassan" style="width:200px;height:200px;" align="right"></a>
+# Foyzul Hassan  <a href="/images/foyzul.jpg" target="_blank"><img src="images/foyzul.jpg" alt="Foyzul Hassan" style="width:190px;height:190px;" align="right"></a>
 Ph.D. Student, Computer Science <br>
 University of Texas at San Antonio <br>
 Office: UTSA Main Campus, NPB 2.244 <br>
@@ -15,7 +15,7 @@ Office: UTSA Main Campus, NPB 2.244 <br>
 <hr style="height:10pt; visibility:hidden;" />
 
 ## About Me
-<a href="http://www.utsa.edu/" target="_blank"><img src="images/UTSA.jpg" alt="UTSA" style="width:200px;" align="right"></a>
+<a href="http://www.utsa.edu/" target="_blank"><img src="images/UTSA.jpg" alt="UTSA" style="width:190px;" align="right"></a>
 
 
 <p align="justify" style="max-width:600px">
