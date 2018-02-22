@@ -27,5 +27,10 @@ Foyzul Hassan, Xiaoyin Wang<br/>
 ACM/IEEE Symposium on Empirical Software Engineering and Measurement (ESEM), 157--162, Nov, 2017
       
 **Mining readme files to support automatic building of java projects in software repositories**  
-Foyzul Hassan, Xiaoyin Wang
+Foyzul Hassan, Xiaoyin Wang<br/>
 International Conference on Software Engineering (ICSE), 277--279, May, 2017
+
+Older Papers
+--
+
+Older Papers can be found at <em><a class="tosu" href="https://scholar.google.com/citations?user=b9Kw58UAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a></em>.
