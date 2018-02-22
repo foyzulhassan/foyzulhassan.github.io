@@ -44,4 +44,14 @@ Find more about the work I've done on my  <a href="/research/" target="_blank">r
 	<td>Our paper on software buildability is accepted in ESEM'17</td>
 	</tr>
 
+	<tr>
+	<td width="75"><b>May, 17'</b></td>
+	<td>Got Carlos Alvarez Graduate Fellowship</td>
+	</tr>
+	
+	<tr>
+	<td width="75"><b>Feb, 17'</b></td>
+	<td>Our papar of Mining Readme File is accepted in ICSE'17 Poster Track </td>
+	</tr>
+	 
 </table>
