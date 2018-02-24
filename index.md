@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Foyzul Hassan  <a href="/images/foyzul.png" target="_blank"><img src="images/foyzul.png" alt="Foyzul Hassan" style="width:190px;height:190px;" align="right"></a>
+# Foyzul Hassan  <a href="/images/foyzul.png" target="_blank"><img src="images/foyzul.png" alt="Foyzul Hassan" style="width:170px;height:190px;" align="right"></a>
 Ph.D. Student, Computer Science <br>
 University of Texas at San Antonio <br>
 Office: UTSA Main Campus, NPB 2.244 <br>
@@ -15,11 +15,11 @@ Office: UTSA Main Campus, NPB 2.244 <br>
 <hr style="height:10pt; visibility:hidden;" />
 
 ## About Me
-<a href="http://www.utsa.edu/" target="_blank"><img src="images/UTSA.jpg" alt="UTSA" style="width:190px;" align="right"></a>
+<a href="http://www.utsa.edu/" target="_blank"><img src="images/UTSA.png" alt="UTSA" style="width:170px;" align="right"></a>
 
 
 <p align="justify" style="max-width:600px">
-I am a PhD candidate in Computer Science Department at <em><a class="tosu" href="http://www.utsa.edu/" target="_blank">UT San Antonio</a></em>, working under the supervision of <a href="http://www.cs.utsa.edu/~xwang/" target="_blank">Dr. Xiaoyin Wang</a>. My area of research focus is in Software Build Optimization, Automatic Repair of Build Script and Continuous Integration.</p>
+I am a PhD candidate in <a class="tosu" href="http://www.cs.utsa.edu/" target="_blank">Computer Science</a> Department at <em><a class="tosu" href="http://www.utsa.edu/" target="_blank">UT San Antonio</a></em>, working under the supervision of <a href="http://www.cs.utsa.edu/~xwang/" target="_blank">Dr. Xiaoyin Wang</a>. My area of research focus is in Software Build Optimization, Automatic Repair of Build Script and Continuous Integration.</p>
 
 <p align="justify" style="max-width:600px">
 Before joining PhD program, I worked in different roles of software engineering. I have 8+ years of industry experience in OOP, Software Quality Assurance, Test Automation, Release Management. I earned my bachelor's degree in Computer Science and Engineering from Military Institute of Science and Technology(MIST), Bangladesh. </p>
