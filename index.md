@@ -5,7 +5,7 @@ layout: default
 # Foyzul Hassan  <a href="/images/foyzul.png" target="_blank"><img src="images/foyzul.png" alt="Foyzul Hassan" style="width:170px;height:190px;" align="right"></a>
 Ph.D. Student, Computer Science <br>
 University of Texas at San Antonio <br>
-Office: UTSA Main Campus, NPB 2.244 <br>
+Office: UTSA Main Campus, NPB 2.220 <br>
 <br>
 <em>Curriculum Vitae: </em><a href="/files/Foyzul_Hassan_CV.pdf" target="_blank">PDF</a>  <small>(Feb, 2018)</small> <br>
 <em>Email: </em><a href="mailto:foyzul.hassan@my.utsa.edu">foyzul.hassan@my.utsa.edu</a> | <a href="mailto:foyzul.hassan@gmail.com">foyzul.hassan@gmail.com</a> <br>
