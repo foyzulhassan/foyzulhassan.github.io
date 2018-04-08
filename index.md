@@ -33,6 +33,10 @@ Find more about the work I've done on my  <a href="/research/" target="_blank">r
 ## News
 
 <table style="white-space: nowrap;">
+	<tr>
+	<td width="75"><b>Apr, 18'</b></td>
+	<td> Received NSF travel grant to attend ICSE'18 in Gothenburg, Sweden </td>
+	</tr>
 
 	<tr>
 	<td width="75"><b>Dec, 17'</b></td>
