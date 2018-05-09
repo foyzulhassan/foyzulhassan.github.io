@@ -17,11 +17,11 @@
     - subtitle: "Talks"
       subhref: "/research/talks/"
 
-#- title: "Miscellany"
-#  href: "/miscellany/"
-#  subcategories:
-#    - subtitle: "Study Material"
-#      subhref: "/miscellany/study-material/"
+- title: "Miscellany"
+  href: "/miscellany/"
+  subcategories:
+    - subtitle: "PhD & Beyond"
+      subhref: "/miscellany/phd-beyond/"
 #    - subtitle: "Research Supplements"
 #      subhref: "/miscellany/research-supplements"
 #    - subtitle: "Other"
