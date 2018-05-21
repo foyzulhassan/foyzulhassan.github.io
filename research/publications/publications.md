@@ -12,7 +12,7 @@ permalink: /research/publications/
 **HireBuild: An Automatic Approach to History-Driven Repair of Build Scripts**<br/>
 Foyzul Hassan, Xiaoyin Wang<br/>
 International Conference on Software Engineering (ICSE), To Appear, May, 2018
-
+<a href="/../../files/ICSE_2018.pdf" target="_blank">preprint</a><a href="/../../files/ICSE_2018_Poster.pdf" target="_blank">poster</a>
 
 2017
 --
