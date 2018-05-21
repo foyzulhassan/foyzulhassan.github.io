@@ -20,7 +20,7 @@ International Conference on Software Engineering (ICSE), To Appear, May, 2018
 **Automatic Building of Java Projects in Software Repositories: A Study on Feasibility and Challenges**<br/>
 Foyzul Hassan, Shaikh Mostafa, Edmund Lam, Xiaoyin Wang<br/>
 ACM/IEEE Symposium on Empirical Software Engineering and Measurement (ESEM), 38--47, Nov, 2017
-
+<a href="/../../files/ESEM_2017_1.pdf" target="_blank">[preprint]</a> <a href="/../../files/ESEM_2017_1_Slide.pdf" target="_blank">[slide]</a>
 
 **Change-Aware Build Prediction Model for Stall Avoidance in Continuous Integration**<br/>
 Foyzul Hassan, Xiaoyin Wang<br/>
