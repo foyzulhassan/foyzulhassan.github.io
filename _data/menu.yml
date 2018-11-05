@@ -1,10 +1,10 @@
 - title: "About"
   href: "/"
 
-- title: "CV & Resume"
+- title: "CV and Resume"
 #  href: "/files/Foyzul_Hassan_CV.pdf"
 #  href: "/files/Foyzul_Hassan_Resume.pdf"
-  href: "cv"
+  href: "/cv/"
 
 #- title: "Blog"
 #  href: "/blog/"
