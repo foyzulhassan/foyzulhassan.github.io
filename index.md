@@ -34,6 +34,11 @@ Find more about the work I've done on my  <a href="/research/" target="_blank">r
 
 <table style="white-space: nowrap;">
 	<tr>
+	<td width="75"><b>July, 18'</b></td>
+	<td> Our New Ideas Paper on Automating Updates of Dockerfiles is accepted in ASE'18 </td> 
+	</tr>
+	
+	<tr>
 	<td width="75"><b>Apr, 18'</b></td>
 	<td> Received NSF travel grant to attend ICSE'18 in Gothenburg, Sweden </td>
 	</tr>
