@@ -7,11 +7,14 @@ permalink: /research/publications/
 
 2018
 --
-
+**RUDSEA: Recommending Updates of Dockerfiles via Software Environment Analysis**<br/>
+Foyzul Hassan, Rodney Rodriguez, Xiaoyin Wang<br/>
+33rd ACM/IEEE International Conference on Automated Software Engineering(ASE),796-801, September, 2018
+<a href="/../../files/ASE_2018.pdf" target="_blank">[preprint(coming soon)]</a>
 
 **HireBuild: An Automatic Approach to History-Driven Repair of Build Scripts**<br/>
 Foyzul Hassan, Xiaoyin Wang<br/>
-International Conference on Software Engineering (ICSE), To Appear, May, 2018
+International Conference on Software Engineering (ICSE), 1078--1089, May, 2018
 <a href="/../../files/ICSE_2018.pdf" target="_blank">[preprint]</a> <a href="/../../files/ICSE_2018_Poster.pdf" target="_blank">[poster]</a> <a href="/../../files/HireBuild.pptx" target="_blank">[slide]</a>
 
 2017
