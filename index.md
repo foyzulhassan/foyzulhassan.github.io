@@ -34,6 +34,11 @@ Find more about the work I've done on my  <a href="/research/" target="_blank">r
 
 <table style="white-space: nowrap;"> 
 	<tr>
+	<td width="75"><b>Feb, 19'</b></td>
+	<td> I will work at Microsoft Research as a research intern this summer</td> 
+	</tr>
+	
+	<tr>
 	<td width="75"><b>Jan, 19'</b></td>
 	<td> Passed PhD Preliminary exam</td> 
 	</tr>
