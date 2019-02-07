@@ -70,7 +70,7 @@ Find more about the work I've done on my  <a href="/research/" target="_blank">r
 	
 	<tr>
 	<td width="75"><b>Feb, 17'</b></td>
-	<td>Our papar of Mining Readme File is accepted in ICSE'17 Poster Track </td>
+	<td>Our paper of Mining Readme File is accepted in ICSE'17 Poster Track </td>
 	</tr>
 	 
 </table>
