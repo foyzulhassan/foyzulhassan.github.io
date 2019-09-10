@@ -34,8 +34,18 @@ Find more about the work I've done on my  <a href="/research/" target="_blank">r
 
 <table style="white-space: nowrap;"> 
 	<tr>
+	<td width="75"><b>Aug, 19'</b></td>
+	<td>Awarded Outstanding Achievement in Research Award 2019 from UTSA Computer Science</td> 
+	</tr>
+	
+    <tr>
+	<td width="75"><b>Aug, 19'</b></td>
+	<td>Doctoral Symposium paper on my Ph.D. research work got accepted in ASE'19</td> 
+	</tr>
+	
+	<tr>
 	<td width="75"><b>Feb, 19'</b></td>
-	<td> I will work at Microsoft Research as a research intern this summer</td> 
+	<td> I will work at Microsoft Research as a research intern this Summer</td> 
 	</tr>
 	
 	<tr>
@@ -45,7 +55,7 @@ Find more about the work I've done on my  <a href="/research/" target="_blank">r
 	
 	<tr>
 	<td width="75"><b>July, 18'</b></td>
-	<td> Our New Ideas Paper on Automating Updates of Dockerfiles is accepted in ASE'18 </td> 
+	<td> Our New Ideas Paper on Automating Updates of Dockerfiles is accepted in ASE'18</td> 
 	</tr>
 	
 	<tr>
