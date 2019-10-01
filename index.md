@@ -32,7 +32,12 @@ Find more about the work I've done on my  <a href="/research/" target="_blank">r
 
 ## News
 
-<table style="white-space: nowrap;"> 
+<table style="white-space: nowrap;">	
+	<tr>
+	<td width="75"><b>Oct, 19'</b></td>
+	<td>Received NSF travel grant to attend ASE'19 in San Diego, USA</td> 
+	</tr>
+	
 	<tr>
 	<td width="75"><b>Aug, 19'</b></td>
 	<td>Awarded Outstanding Achievement in Research Award 2019 from UTSA Computer Science</td> 
