@@ -24,6 +24,10 @@ I am a PhD candidate in <a class="tosu" href="http://www.cs.utsa.edu/" target="_
 <p align="justify" style="max-width:600px">
 Before joining PhD program, I worked in different roles of software engineering. I have 8+ years of industry experience in OOP, Software Quality Assurance, Test Automation, Release Management. I earned my bachelor's degree in Computer Science and Engineering from Military Institute of Science and Technology(MIST), Bangladesh. </p>
 
+<p align="justify" style="max-width:600px">
+I'm privileged to work with prominent researchers from different sub-fields of computer science, including <a href="http://people.cs.vt.edu/nm8247/" target="_blank">Na Meng</a>, <a href="https://personal.utdallas.edu/~lxz144130/" target="_blank">Lingming Zhang</a>, <a href="https://www.microsoft.com/en-us/research/people/nachin/" target="_blank">Nachi Nagappan</a>, <a href="https://www.microsoft.com/en-us/research/people/tzimmer/" target="_blank">Tom Zimmermann</a>, and <a href="https://www.microsoft.com/en-us/research/people/hassanam/" target="_blank">Ahmed Hassan Awadallah</a>.</p>
+
+
 ## Research Works
 <p align="justify" style="max-width:600px">
 Find more about the work I've done on my  <a href="/research/" target="_blank">research page</a>.
