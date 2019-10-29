@@ -8,7 +8,7 @@ University of Texas at San Antonio <br>
 Office: UTSA Main Campus, NPB 2.220 <br>
 <br>
 <em>Curriculum Vitae: </em><a href="/files/Foyzul_Hassan_CV.pdf" target="_blank">PDF</a>  <small>(Oct, 2019)</small> <br>
-<em>Email: </em><a href="mailto:firstname.lastname@my.utsa.edu">firstname.lastname@my.utsa.edu</a> | <a href="mailto:firstname.lastname@gmail.com">firstname.lastname@gmail.com</a> <br>
+<em>Email: </em><a href="mailto:foyzul.hassan@my.utsa.edu">foyzul.hassan@my.utsa.edu</a> <br>
 
 <hr width="600px">
 
