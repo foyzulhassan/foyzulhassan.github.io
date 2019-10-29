@@ -19,7 +19,7 @@ Office: UTSA Main Campus, NPB 2.220 <br>
 
 
 <p align="justify" style="max-width:600px">
-I am a PhD candidate in <a class="tosu" href="http://www.cs.utsa.edu/" target="_blank">Computer Science</a> Department at <em><a class="tosu" href="http://www.utsa.edu/" target="_blank">UT San Antonio</a></em>, working under the supervision of <a href="http://www.cs.utsa.edu/~xwang/" target="_blank">Dr. Xiaoyin Wang</a>. My area of research focus is in Software Build Optimization, Automatic Repair of Build Script and Continuous Integration.</p>
+I am a PhD candidate in <a class="tosu" href="http://www.cs.utsa.edu/" target="_blank">Computer Science</a> Department at <em><a class="tosu" href="http://www.utsa.edu/" target="_blank">UT San Antonio</a></em>, working under the supervision of <a href="http://www.cs.utsa.edu/~xwang/" target="_blank">Dr. Xiaoyin Wang</a>. My main interest is improving software development productivity. Some specific areas of interest to me are: continuous integration, software build process, script code analysis, program repair and fault localization, software engineering tools for machine learning (SE4ML), and security vulnaribility analysis for development tools.</p>
 
 <p align="justify" style="max-width:600px">
 Before joining PhD program, I worked in different roles of software engineering. I have 8+ years of industry experience in OOP, Software Quality Assurance, Test Automation, Release Management. I earned my bachelor's degree in Computer Science and Engineering from Military Institute of Science and Technology(MIST), Bangladesh. </p>
