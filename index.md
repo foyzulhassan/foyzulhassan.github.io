@@ -15,8 +15,7 @@ Office: UTSA Main Campus, NPB 2.220 <br>
 <hr style="height:10pt; visibility:hidden;" />
 
 <div class="tosu">
-  I am on the academic/industry-research job market. 
-  Please feel free to reach out to me if you are hiring.
+  <a class="tosu">I am on the academic/industry-research job market. Please feel free to reach out to me if you are hiring.</a>
 </div>
 
 <hr style="height:10pt; visibility:hidden;" />
