@@ -10,9 +10,9 @@ Office: UTSA Main Campus, NPB 2.220 <br>
 <em>Curriculum Vitae: </em><a href="/files/Foyzul_Hassan_CV.pdf" target="_blank">PDF</a>  <small>(Oct, 2019)</small> <br>
 <em>Email: </em><a href="mailto:foyzul.hassan@my.utsa.edu">foyzul.hassan@my.utsa.edu</a> <br>
 
-<!--<hr width="600px">-->
+<hr width="600px">
 
-<hr style="height:20pt; visibility:hidden;" />
+<hr style="height:10pt; visibility:hidden;" />
 
 <div class="tosu">
   <em><a class="tosu">I am on the academic/industry-research job market.</a></em>
