@@ -4,6 +4,13 @@ title: Publications
 permalink: /research/publications/
 ---
 
+2019
+--
+**Tackling Build Failures in Continuous Integration**<br/>
+Foyzul Hassan<br/>
+IEEE/ACM International Conference on Automated Software Engineering (ASE), Doctoral Symposium, pp. To appear, 2019
+<a href="/../../files/DoctoralSymp_ASE.pdf" target="_blank">[preprint]</a> 
+
 
 2018
 --
