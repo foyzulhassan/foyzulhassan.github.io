@@ -3,6 +3,12 @@ layout: page
 title: Publications
 permalink: /research/publications/
 ---
+2020
+--
+**Taming Behavioral Backward Incompatibilities via Cross-Project Testing and Analysis**<br/>
+Lingchao Chen, Foyzul Hassan, Xiaoyin Wang, Lingming Zhang<br/>
+Proceedings of the 42nd IEEE/ACM International Conference on Software Engineering(ICSE 2020), 12 pages, to appear, May 2020. 
+
 
 2019
 --
