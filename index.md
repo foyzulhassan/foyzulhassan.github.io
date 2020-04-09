@@ -15,7 +15,7 @@ Office: UTSA Main Campus, NPB 2.220 <br>
 <hr style="height:10pt; visibility:hidden;" />
 
 <div class="tosu">
-  <em><a class="tosu">I will be joining <a href="https://umdearborn.edu/cecs/departments/computer-and-information-science" target="_blank">University of Michigan--Dearborn</a> in Fall 2020 as an Assistant Professor in the Computer and Information Science!</a></em>
+  <em><a class="tosu">I will be joining <a href="https://umdearborn.edu/cecs/departments/computer-and-information-science" target="_blank">University of Michigan--Dearborn</a><a class="tosu"> in Fall 2020 as an Assistant Professor in the Computer and Information Science!</a></em>
 </div>
 
 <hr style="height:10pt; visibility:hidden;" />
