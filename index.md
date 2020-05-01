@@ -44,10 +44,13 @@ Find more about the work I've done on my  <a href="/research/" target="_blank">r
 
 <table style="white-space: nowrap;">
 	<tr>
+	<td width="75"><b>Apr, 20'</b></td>
+	<td>Successfully defended my PhD thesis!!!</td> 
+	</tr>
+	<tr>
 	<td width="75"><b>Dec, 19'</b></td>
 	<td>Our paper on Testing and Analysis of Behavioral Backward Incompatibilities is accepted in ICSE'20</td> 
-	</tr>
-	
+	</tr>	
 	<tr>
 	<td width="75"><b>Oct, 19'</b></td>
 	<td>Received NSF travel grant to attend ASE'19 in San Diego, USA</td> 
