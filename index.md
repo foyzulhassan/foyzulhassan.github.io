@@ -44,6 +44,10 @@ Find more about the work I've done on my  <a href="/research/" target="_blank">r
 
 <table style="white-space: nowrap;">
 	<tr>
+	<td width="75"><b>July, 20'</b></td>
+	<td>Our paper on the Study of Software Exceptions in the Field using Search Logs has accepted in ESEM'20</td> 
+	</tr>
+	<tr>
 	<td width="75"><b>Apr, 20'</b></td>
 	<td>Successfully defended my PhD thesis!!!</td> 
 	</tr>

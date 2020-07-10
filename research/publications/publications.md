@@ -5,6 +5,12 @@ permalink: /research/publications/
 ---
 2020
 --
+**An Empirical Study of Software Exceptions in the Field using Search Logs**<br/>
+Foyzul Hassan, Chetan Bansal, Nachiappan Nagappan, Thomas Zimmermann, and Ahmed Hassan Awadallah<br/>
+ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), Technical Paper, pp. To appear, 2020
+<a href="https://arxiv.org/abs/2006.00385" target="_blank">[preprint]</a>
+
+
 **Taming Behavioral Backward Incompatibilities via Cross-Project Testing and Analysis**<br/>
 Lingchao Chen, Foyzul Hassan, Xiaoyin Wang, Lingming Zhang<br/>
 Proceedings of the 42nd IEEE/ACM International Conference on Software Engineering(ICSE 2020), 12 pages, to appear, May 2020. 
