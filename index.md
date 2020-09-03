@@ -17,7 +17,7 @@ Office: 105 CIS 4901 Everygreen Rd. Dearborn, MI 48128 <br>
 <a href="https://umdearborn.edu/" target="_blank"><img src="images/umd.png" alt="UM-Dearborn" style="width:170px;" align="right"></a>
 
 <p align="justify" style="max-width:600px">
-I am an Assistant Professor in the Department of <a class="tosu" href="https://umdearborn.edu/cecs/departments/computer-and-information-science" target="_blank">Computer and Information Science</a> at the <a class="tosu" href="https://umdearborn.edu/" target="_blank">University of Michigan-Dearborn</a>. My research interest is in improving software development productivity. Some specific areas of interest to me are continuous integration, software build process, script code analysis, program repair and fault localization, software engineering tools for machine learning (SE4ML), and security vulnerability analysis for development tools.</p>
+I am an Assistant Professor in the Department of <a href="https://umdearborn.edu/cecs/departments/computer-and-information-science" target="_blank">Computer and Information Science</a> at the <a href="https://umdearborn.edu/" target="_blank">University of Michigan-Dearborn</a>. My research interest is in improving software development productivity. Some specific areas of interest to me are continuous integration, software build process, script code analysis, program repair and fault localization, software engineering tools for machine learning (SE4ML), and security vulnerability analysis for development tools.</p>
 
 
 
