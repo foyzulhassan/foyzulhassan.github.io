@@ -3,35 +3,22 @@ layout: default
 ---
 
 # Foyzul Hassan  <a href="/images/foyzul.png" target="_blank"><img src="images/foyzul.png" alt="Foyzul Hassan" style="width:170px;height:190px;" align="right"></a>
-Ph.D. Student, Computer Science <br>
-University of Texas at San Antonio <br>
-Office: UTSA Main Campus, NPB 2.220 <br>
+Assistant Professor, Computer and Information Science <br>
+University of Michigan - Dearborn <br>
+Office: 105 CIS 4901 Everygreen Rd. Dearborn, MI 48128 <br>
 <br>
 <em>Curriculum Vitae: </em><a href="/files/Foyzul_Hassan_CV.pdf" target="_blank">PDF</a>  <small>(Oct, 2019)</small> <br>
-<em>Email: </em><a href="mailto:foyzul.hassan@my.utsa.edu">foyzul.hassan@my.utsa.edu</a> <br>
+<em>Email: </em><a href="mailto:foyzul@umich.edu">foyzul@umich.edu</a> <br>
 
 <hr width="600px">
 
-<hr style="height:10pt; visibility:hidden;" />
-
-
-  <em><a class="tosu">I will be joining <a href="https://umdearborn.edu/cecs/departments/computer-and-information-science" target="_blank">University of Michigan--Dearborn</a><a class="tosu"> in Fall 2020 as an <br />Assistant Professor in the Computer and Information Science! </a>
-
-
-<hr style="height:10pt; visibility:hidden;" />
 
 ## About Me
-<a href="http://www.utsa.edu/" target="_blank"><img src="images/UTSA.png" alt="UTSA" style="width:170px;" align="right"></a>
-
-
-<p align="justify" style="max-width:600px">
-I am a PhD candidate in <a class="tosu" href="http://www.cs.utsa.edu/" target="_blank">Computer Science</a> Department at <em><a class="tosu" href="http://www.utsa.edu/" target="_blank">UT San Antonio</a></em>, working under the supervision of <a href="http://www.cs.utsa.edu/~xwang/" target="_blank">Dr. Xiaoyin Wang</a>. My main interest is improving software development productivity. Some specific areas of interest to me are: continuous integration, software build process, script code analysis, program repair and fault localization, software engineering tools for machine learning (SE4ML), and security vulnaribility analysis for development tools.</p>
+<a href="https://umdearborn.edu/" target="_blank"><img src="images/umd.png" alt="UM-Dearborn" style="width:170px;" align="right"></a>
 
 <p align="justify" style="max-width:600px">
-Before joining PhD program, I worked in different roles of software engineering. I have 8+ years of industry experience in OOP, Software Quality Assurance, Test Automation, Release Management. I earned my bachelor's degree in Computer Science and Engineering from Military Institute of Science and Technology(MIST), Bangladesh. </p>
+I am an Assistant Professor in the Department of Computer and Information Science at the University of Michigan-Dearborn. My research interest is in improving software development productivity. Some specific areas of interest to me are continuous integration, software build process, script code analysis, program repair and fault localization, software engineering tools for machine learning (SE4ML), and security vulnerability analysis for development tools.</p>
 
-<p align="justify" style="max-width:600px">
-I'm privileged to work with prominent researchers from different sub-fields of computer science, including <a href="http://people.cs.vt.edu/nm8247/" target="_blank">Na Meng</a>, <a href="https://personal.utdallas.edu/~lxz144130/" target="_blank">Lingming Zhang</a>, <a href="https://www.microsoft.com/en-us/research/people/nachin/" target="_blank">Nachi Nagappan</a>, <a href="https://www.microsoft.com/en-us/research/people/tzimmer/" target="_blank">Tom Zimmermann</a>, and <a href="https://www.microsoft.com/en-us/research/people/hassanam/" target="_blank">Ahmed Hassan Awadallah</a>.</p>
 
 
 ## Research Works
