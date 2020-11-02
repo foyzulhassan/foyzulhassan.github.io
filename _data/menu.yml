@@ -1,8 +1,8 @@
 - title: "About"
   href: "/"
 
-- title: "CV and Resume"
-  href: "/cv/"
+#- title: "CV and Resume"
+#  href: "/cv/"
 
 #- title: "Blog"
 #  href: "/blog/"
@@ -16,6 +16,12 @@
       subhref: "/research/publications/"
     - subtitle: "Talks"
       subhref: "/research/talks/"
+      
+- title: "Teaching"
+  href: "/teaching/"
+  
+- title: "Services"
+  href: "/services/"
 
 - title: "Miscellany"
   href: "/miscellany/"
