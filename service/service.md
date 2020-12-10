@@ -7,6 +7,7 @@ permalink: /service/
 PC Members
 --
 **28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER2021)**<br/>
+**8th International Workshop ON Software Engineering Research and Industrial Practice (SER&IP@ICSE 2021)**<br/>
 
 
 Reviewers
