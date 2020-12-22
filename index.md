@@ -12,7 +12,6 @@ Office: 105 CIS 4901 Everygreen Rd. Dearborn, MI 48128 <br>
 
 <!-- <hr width="600px"> -->
 
-<hr>
 
 
 ## About Me
