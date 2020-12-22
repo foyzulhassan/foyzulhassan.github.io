@@ -10,7 +10,9 @@ Office: 105 CIS 4901 Everygreen Rd. Dearborn, MI 48128 <br>
 <em>Curriculum Vitae: </em><a href="/files/Foyzul_Hassan_CV.pdf" target="_blank">PDF</a>  <small>(Oct, 2019)</small> <br>
 <em>Email: </em><a href="mailto:foyzul@umich.edu">foyzul@umich.edu</a> <br>
 
-<hr width="600px">
+<!-- <hr width="600px"> -->
+
+<hr>
 
 
 ## About Me
