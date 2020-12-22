@@ -31,6 +31,10 @@ Find more about the work I've done on my  <a href="/research/" target="_blank">r
 
 <table style="white-space: nowrap;">
 	<tr>
+	<td width="75"><b>Dec, 20'</b></td>
+	<td>Our paper on Optimization of Virtual Reality Applications has accepted in ICSE'21</td> 
+	</tr>
+	<tr>
 	<td width="75"><b>July, 20'</b></td>
 	<td>Our paper on the Study of Software Exceptions in the Field using Search Logs has accepted in ESEM'20</td> 
 	</tr>
@@ -86,15 +90,10 @@ Find more about the work I've done on my  <a href="/research/" target="_blank">r
 	<td width="75"><b>Jun, 17'</b></td>
 	<td>Our paper on software buildability is accepted in ESEM'17</td>
 	</tr>
-
+	
 	<tr>
 	<td width="75"><b>May, 17'</b></td>
 	<td>Got Carlos Alvarez Graduate Fellowship</td>
 	</tr>
-	
-	<tr>
-	<td width="75"><b>Feb, 17'</b></td>
-	<td>Our paper of Mining Readme File is accepted in ICSE'17 Poster Track </td>
-	</tr>
-	 
+
 </table>
