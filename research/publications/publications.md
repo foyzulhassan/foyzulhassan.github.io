@@ -3,6 +3,14 @@ layout: page
 title: Publications
 permalink: /research/publications/
 ---
+2021
+--
+**How Developers Optimize Virtual Reality Applications: A Study of Optimization Commits in Open Source Unity Projects**<br/>
+Fariha Nusrat, Foyzul Hassan, Hao Zhong, Xiaoyin Wang<br/>
+International Conference on Software Engineering (ICSE), May, 2021
+<a href="/../../files/VRPerfBugStudyICSE21" target="_blank">[preprint]</a>
+
+
 2020
 --
 **An Empirical Study of Software Exceptions in the Field using Search Logs**<br/>
@@ -14,7 +22,7 @@ ACM/IEEE International Symposium on Empirical Software Engineering and Measureme
 **Taming Behavioral Backward Incompatibilities via Cross-Project Testing and Analysis**<br/>
 Lingchao Chen, Foyzul Hassan, Xiaoyin Wang, Lingming Zhang<br/>
 Proceedings of the 42nd IEEE/ACM International Conference on Software Engineering(ICSE 2020), 12 pages, to appear, May 2020. 
-
+<a href="/../../files/icse2020a.pdf" target="_blank">[preprint]</a> 
 
 2019
 --
@@ -29,7 +37,7 @@ IEEE/ACM International Conference on Automated Software Engineering (ASE), Docto
 **RUDSEA: Recommending Updates of Dockerfiles via Software Environment Analysis**<br/>
 Foyzul Hassan, Rodney Rodriguez, Xiaoyin Wang<br/>
 33rd ACM/IEEE International Conference on Automated Software Engineering(ASE),796-801, September, 2018
-<a href="/../../files/ASE_2018.pdf" target="_blank">[preprint(coming soon)]</a>
+<a href="/../../files/ASE_2018.pdf" target="_blank">[preprint]</a>
 
 **HireBuild: An Automatic Approach to History-Driven Repair of Build Scripts**<br/>
 Foyzul Hassan, Xiaoyin Wang<br/>
