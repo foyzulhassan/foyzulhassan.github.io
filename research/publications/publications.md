@@ -8,7 +8,7 @@ permalink: /research/publications/
 **How Developers Optimize Virtual Reality Applications: A Study of Optimization Commits in Open Source Unity Projects**<br/>
 Fariha Nusrat, Foyzul Hassan, Hao Zhong, Xiaoyin Wang<br/>
 International Conference on Software Engineering (ICSE), May, 2021
-<a href="/../../files/VRPerfBugStudyICSE21" target="_blank">[preprint]</a>
+<a href="/../../files/VRPerfBugStudyICSE21.pdf" target="_blank">[preprint]</a>
 
 
 2020
