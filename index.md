@@ -2,8 +2,8 @@
 layout: default
 ---
 
-# Foyzul Hassan  <a href="/images/foyzul.png" target="_blank"><img src="images/foyzul.png" alt="Foyzul Hassan" style="width:170px;height:190px;" align="right"></a>
-Assistant Professor, Computer and Information Science <br>
+# Foyzul Hassan  
+Assistant Professor, Computer and Information Science <a href="/images/foyzul.png" target="_blank"><img src="images/foyzul.png" alt="Foyzul Hassan" style="width:170px;height:190px;" align="right"></a> <br>
 University of Michigan - Dearborn <br>
 Office: 234 CIS 4901 Everygreen Rd. Dearborn, MI 48128 <br>
 <br>
