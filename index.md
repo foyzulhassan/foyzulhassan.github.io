@@ -10,7 +10,7 @@ Office: 234 CIS 4901 Everygreen Rd. Dearborn, MI 48128 <br>
 <em>Curriculum Vitae: </em><a href="/files/Foyzul_Hassan_CV.pdf" target="_blank">PDF</a>  <small>(Oct, 2019)</small> <br>
 <em>Email: </em><a href="mailto:foyzul@umich.edu">foyzul@umich.edu</a> <br>
 
-<!-- <hr width="600px"> -->
+<hr width="600px"> 
 
 
 ## About Me
@@ -28,8 +28,8 @@ Find more about the work I've done on my  <a href="/research/" target="_blank">r
 <!-- <center> <em><a class="tosu"> Scroll down for news! </a></em></center> -->
 
 ## News
-
-<table style="white-space: normal;">
+<!--<table style="white-space: nowrap;"> -->
+<table>
 	<tr>
 	<td width="75"><b>Dec, 20'</b></td>
 	<td>Our paper on Optimization of Virtual Reality Applications has accepted in ICSE'21</td> 
