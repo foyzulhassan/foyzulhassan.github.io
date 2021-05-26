@@ -29,7 +29,7 @@ Find more about the work I've done on my  <a href="/research/" target="_blank">r
 
 ## News
 
-<table style="white-space: nowrap;">
+<table style="white-space: normal;">
 	<tr>
 	<td width="75"><b>Dec, 20'</b></td>
 	<td>Our paper on Optimization of Virtual Reality Applications has accepted in ICSE'21</td> 
