@@ -5,6 +5,11 @@ permalink: /research/publications/
 ---
 2021
 --
+**Refactorings and Technical Debt in Docker Projects: An Empirical Study**<br/>
+Emna Ksontini, Marouane Kessentini, Thiago do Nascimento Ferreira, Foyzul Hassan<br/>
+Accepted at ACM/IEEE International Conference on Automated Software Engineering(ASE), Nov. 15 – Nov. 19, 2021
+<a href="/../../files/DockerRefactoring.pdf" target="_blank">[preprint coming soon]</a>
+
 **How Developers Optimize Virtual Reality Applications: A Study of Optimization Commits in Open Source Unity Projects**<br/>
 Fariha Nusrat, Foyzul Hassan, Hao Zhong, Xiaoyin Wang<br/>
 International Conference on Software Engineering (ICSE), May, 2021

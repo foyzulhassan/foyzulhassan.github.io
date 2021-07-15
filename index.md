@@ -31,6 +31,10 @@ Find more about the work I've done on my  <a href="/research/" target="_blank">r
 <!--<table style="white-space: nowrap;"> -->
 <table>
 	<tr>
+	<td width="75"><b>July, 21'</b></td>
+	<td>Our paper on Refactorings and Technical Debt in Docker Projects has accepted in ASE'21</td> 
+	</tr>
+	<tr>
 	<td width="75"><b>Dec, 20'</b></td>
 	<td>Our paper on Optimization of Virtual Reality Applications has accepted in ICSE'21</td> 
 	</tr>
