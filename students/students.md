@@ -10,15 +10,6 @@ Graduate Students
 <a href="https://www.linkedin.com/in/dhia-elhaq-rzig/" target="_blank">[link]</a>
 <br/>
 
-**Emna Ksontini, PhD Student(Co-Adviser: Dr. Marouane Kessentini), Sept.2021--**
-<a href="" target="_blank">[link]</a>
-<br/>
-
-**Anwar Ghammam, PhD Student(Co-Adviser: Dr. Marouane Kessentini), Sept.2021--**
-<a href="" target="_blank">[link]</a>
-<br/>
-<br/>
-
 Undergraduate Students
 --
 **Sherry Robbins, May.2021--**
