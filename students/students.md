@@ -46,6 +46,6 @@ Undergraduate Students
 
 Alumni
 --
-**Sherry Robbins, May.2021--Sept.2021**
+**Sherry Robbins, Undergraduate Student, May.2021--Sept.2021**
 <a href="https://www.linkedin.com/in/sherry-robbins-502894211/" target="_blank">[profile]</a>
 <br/>
