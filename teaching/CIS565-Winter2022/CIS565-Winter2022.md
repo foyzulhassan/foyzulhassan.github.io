@@ -1,3 +1,10 @@
+---
+layout: page
+title: CIS565-Winter2022
+permalink: /teaching/CIS580-Fall2021/
+---
+
+
 <p><strong>CIS 565-Syllabus </strong></p>
 <p><strong>&nbsp;</strong></p>
 <p><strong>CIS565, Software Quality Assurance, 3 Credit Hours</strong></p>
