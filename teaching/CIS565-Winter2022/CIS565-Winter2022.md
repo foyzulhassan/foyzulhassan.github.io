@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CIS565-Winter2022
-permalink: /teaching/CIS580-Fall2021/
+permalink: /teaching/CIS565-Winter2022/
 ---
 
 
