@@ -31,6 +31,10 @@ Find more about the work I've done on my  <a href="/research/" target="_blank">r
 <!--<table style="white-space: nowrap;"> -->
 <table>
 	<tr>
+	<td width="75"><b>June, 22'</b></td>
+	<td> Our paper on Characterizing CI for ML Projects has accepted in ESEM'22</td> 
+	</tr>
+	<tr>
 	<td width="75"><b>April, 22'</b></td>
 	<td>NSF CRII grant on ML Continuous Integration has been awarded. Thanks NSF!!</td> 
 	</tr>

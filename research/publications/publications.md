@@ -3,6 +3,14 @@ layout: page
 title: Publications
 permalink: /research/publications/
 ---
+2022
+--
+**Characterizing the usage of CI tools in ML projects**<br/>
+Dhia Elhaq Rzig, Foyzul Hassan, Chetan Bansal and Nachiappan Nagappan<br/>
+ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), Technical Paper, pp. To appear, 2022
+<a href="/../../files/MLCIESEM2022.pdf" target="_blank">[preprint coming soon]</a>
+
+
 2021
 --
 **Refactorings and Technical Debt in Docker Projects: An Empirical Study**<br/>
