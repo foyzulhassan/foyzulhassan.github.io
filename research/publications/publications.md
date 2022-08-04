@@ -5,6 +5,10 @@ permalink: /research/publications/
 ---
 2022
 --
+**An Empirical Study on ML DevOps Adoption Trends, Efforts, and Benefits Analysis**<br/>
+Dhia Elhaq Rzig, Foyzul Hassan and Marouane Kessentini<br/>
+Information and Software Technology (IST), Impact factor 3.862, Q1 Journal, To appear, 2022 
+
 **Characterizing the usage of CI tools in ML projects**<br/>
 Dhia Elhaq Rzig, Foyzul Hassan, Chetan Bansal and Nachiappan Nagappan<br/>
 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), Technical Paper, pp. To appear, 2022
