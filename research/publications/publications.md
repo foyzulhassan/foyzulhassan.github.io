@@ -5,6 +5,12 @@ permalink: /research/publications/
 ---
 2022
 --
+
+**DyTRec: A Dynamic Testing Recommendation tool for Virtual Reality Software**<br/>
+Xue Qin and Foyzul Hassan<br/>
+First International Workshop on Virtual and Augmented Reality Software Engineering, co-located with the 37th IEEE/ACM International Conference on Automated Software Engineering (ASE), To appear, 2022 
+
+
 **An Empirical Study on ML DevOps Adoption Trends, Efforts, and Benefits Analysis**<br/>
 Dhia Elhaq Rzig, Foyzul Hassan and Marouane Kessentini<br/>
 Information and Software Technology (IST), Impact factor 3.862, Q1 Journal, To appear, 2022 
