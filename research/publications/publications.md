@@ -5,12 +5,16 @@ permalink: /research/publications/
 ---
 2023
 --
+**UniLoc: Unified Fault Localization of Continuous Integration Failures**<br/>
+Foyzul Hassan, Na Meng and Xiaoyin Wang<br/>
+ACM Transactions on Software Engineering and Methodology (TOSEM), Impact factor 3.685, 2023
+<a href="/../../files/TOSEM2023.pdf" target="_blank">[preprint coming soon]</a>
+
 
 **An Empirical Study of High Performance Computing (HPC) Performance Bugs**<br/>
 Md Abul Kalam Azad, Nafees Iqbal, Foyzul Hassan and Probir Roy<br/>
 International Conference on Mining Software Repositories (MSR) , Technical Paper, pp. To appear, 2023
 <a href="/../../files/MSR2023.pdf" target="_blank">[preprint coming soon]</a>
-
 
 
 2022
