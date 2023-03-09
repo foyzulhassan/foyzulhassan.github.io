@@ -12,7 +12,7 @@ ACM Transactions on Software Engineering and Methodology (TOSEM), Impact factor 
 
 
 **An Empirical Study of High Performance Computing (HPC) Performance Bugs**<br/>
-Md Abul Kalam Azad*, Nafees Iqbal*, Foyzul Hassan and Probir Roy [*equal contribution]<br/>
+Md Abul Kalam Azad^, Nafees Iqbal^, Foyzul Hassan and Probir Roy [^equal contribution]<br/>
 International Conference on Mining Software Repositories (MSR) , Technical Paper, pp. To appear, 2023
 <a href="/../../files/MSR2023.pdf" target="_blank">[preprint coming soon]</a>
 
