@@ -30,6 +30,10 @@ Find more about the work I've done on my  <a href="/research/" target="_blank">r
 ## News
 <!--<table style="white-space: nowrap;"> -->
 <table>
+<tr>
+	<td width="75"><b>March, 23'</b></td>
+	<td> Our paper on HPC Performance Bug has accepted in MSR'23 and paper on CI fault localization has accepted in TOSEM</td> 
+	</tr>
 	<tr>
 	<td width="75"><b>June, 22'</b></td>
 	<td> Our paper on Characterizing CI for ML Projects has accepted in ESEM'22</td> 
