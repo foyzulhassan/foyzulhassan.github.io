@@ -32,7 +32,7 @@ Information and Software Technology (IST), Impact factor 3.862, Q1 Journal, To a
 **Characterizing the usage of CI tools in ML projects**<br/>
 Dhia Elhaq Rzig, Foyzul Hassan, Chetan Bansal and Nachiappan Nagappan<br/>
 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), Technical Paper, pp. To appear, 2022
-<a href="/../../files/MLCIESEM2022.pdf" target="_blank">[preprint coming soon]</a>
+<a href="/../../files/ESEM_2022.pdf" target="_blank">[preprint]</a>
 
 
 2021
