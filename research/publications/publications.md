@@ -28,6 +28,7 @@ First International Workshop on Virtual and Augmented Reality Software Engineeri
 **An Empirical Study on ML DevOps Adoption Trends, Efforts, and Benefits Analysis**<br/>
 Dhia Elhaq Rzig, Foyzul Hassan and Marouane Kessentini<br/>
 Information and Software Technology (IST), Impact factor 3.862, Q1 Journal, To appear, 2022 
+<a href="/../../files/IST2022_Preprint.pdf" target="_blank">[preprint]</a>
 
 **Characterizing the usage of CI tools in ML projects**<br/>
 Dhia Elhaq Rzig, Foyzul Hassan, Chetan Bansal and Nachiappan Nagappan<br/>
