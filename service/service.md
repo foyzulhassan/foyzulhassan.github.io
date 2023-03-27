@@ -10,6 +10,7 @@ Chair
 
 PC Members
 --
+**6th  International Conference on Technical Debt (TechDebt 2023)**<br/> 
 **20th International Conference on Mining Software Repositories (MSR2023)**<br/>
 **30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER2023)**<br/>
 **19th International Conference on Mining Software Repositories (MSR2022)**<br/>
