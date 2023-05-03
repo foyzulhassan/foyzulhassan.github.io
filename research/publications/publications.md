@@ -5,6 +5,12 @@ permalink: /research/publications/
 ---
 2023
 --
+**Virtual Reality (VR) Automated Testing in the Wild: a Case Study on Unity-Based VR Applications**<br/>
+Dhia Elhaq Rzig, Nafees Iqbal, Isabella Attisano, Xue Qin and Foyzul Hassan<br/>
+ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), Technical Paper, pp. To appear, 2023
+<a href="/../../files/ISSTA2023.pdf" target="_blank">[preprint coming soon]</a>
+
+
 **UniLoc: Unified Fault Localization of Continuous Integration Failures**<br/>
 Foyzul Hassan, Na Meng and Xiaoyin Wang<br/>
 ACM Transactions on Software Engineering and Methodology (TOSEM), Impact factor 3.685, 2023
