@@ -14,7 +14,7 @@ ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), Te
 **UniLoc: Unified Fault Localization of Continuous Integration Failures**<br/>
 Foyzul Hassan, Na Meng and Xiaoyin Wang<br/>
 ACM Transactions on Software Engineering and Methodology (TOSEM), Impact factor 3.685, 2023
-<a href="/../../files/TOSEM2023.pdf" target="_blank">[preprint coming soon]</a>
+<a href="/../../files/TOSEM2023.pdf" target="_blank">[preprint]</a>
 
 
 **An Empirical Study of High Performance Computing (HPC) Performance Bugs**<br/>
