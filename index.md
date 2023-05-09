@@ -30,7 +30,11 @@ Find more about the work I've done on my  <a href="/research/" target="_blank">r
 ## News
 <!--<table style="white-space: nowrap;"> -->
 <table>
-<tr>
+    <tr>
+	<td width="75"><b>May, 23'</b></td>
+	<td> Our paper on Virtual Reality Automated Testing Practice has accepted in ISSTA'23</td> 
+	</tr>
+    <tr>
 	<td width="75"><b>March, 23'</b></td>
 	<td> One paper has accepted in MSR'23 and another paper has accepted in TOSEM</td> 
 	</tr>
