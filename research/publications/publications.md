@@ -8,7 +8,7 @@ permalink: /research/publications/
 **Virtual Reality (VR) Automated Testing in the Wild: a Case Study on Unity-Based VR Applications**<br/>
 Dhia Elhaq Rzig, Nafees Iqbal, Isabella Attisano, Xue Qin and Foyzul Hassan<br/>
 ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), Technical Paper, pp. To appear, 2023
-<a href="/../../files/ISSTA2023.pdf" target="_blank">[preprint coming soon]</a>
+<a href="/../../files/ISSTA2023.pdf" target="_blank">[preprint]</a>
 
 
 **UniLoc: Unified Fault Localization of Continuous Integration Failures**<br/>
