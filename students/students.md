@@ -7,11 +7,16 @@ permalink: /students/
 Graduate Students
 --
 **Dhia Elhaq Rzig, PhD Student, Sept.2020--**
-<a href="https://www.linkedin.com/in/dhia-elhaq-rzig/" target="_blank">[profile]</a>
+<a href="https://dhiarzig.netlify.app/" target="_blank">[profile]</a>
 <br/>
 
 **Nafees Iqbal, PhD Student, Jan.2021--**
-<a href="https://www.linkedin.com/in/nafees-iqbal-904951156/" target="_blank">[profile]</a>
+<a href="https://sites.google.com/view/nafees" target="_blank">[profile]</a>
+<br/>
+
+
+**Chadha Siala, PhD Student, Sept.2023--**
+<a href="https://chadhasiala.netlify.app/" target="_blank">[profile]</a>
 <br/>
 
 
@@ -19,9 +24,7 @@ Graduate Students
 <a href="https://www.linkedin.com/in/mit-patel-b153b9119/" target="_blank">[profile]</a>
 <br/>
 
-**Moetez Skouri, Masters Student, Jan.2021--**
-<a href="https://www.linkedin.com/in/moetez-skouri-9996a0176/" target="_blank">[profile]</a>
-<br/>
+
 
 
 Undergraduate Students
@@ -48,4 +51,8 @@ Alumni
 --
 **Sherry Robbins, Undergraduate Student, May.2021--Sept.2021**
 <a href="https://www.linkedin.com/in/sherry-robbins-502894211/" target="_blank">[profile]</a>
+<br/>
+
+**Moetez Skouri, Masters Student, Jan.2021--April.2021**
+<a href="https://www.linkedin.com/in/moetez-skouri-9996a0176/" target="_blank">[profile]</a>
 <br/>
