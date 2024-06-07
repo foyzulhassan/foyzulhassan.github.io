@@ -3,6 +3,18 @@ layout: page
 title: Publications
 permalink: /research/publications/
 ---
+2024
+--
+**Efficient Management of Containers for Software Defined Vehicles**<br/>
+Anwar Ghammam, Rania Khalsi, Marouane Kessentini and Foyzul Hassan<br/>
+ACM Transactions on Software Engineering and Methodology (TOSEM), 2024
+
+**Decoding and Answering Developers’ Questions about Web Services Managed by Marketplaces**<br/>
+Siddhi Baravkar, Chi Zhang, Foyzul Hassan, Long Cheng, and Zheng Song<br/>
+IEEE International Conference on Software Services Engineering (IEEE SSE), 2024
+
+
+
 2023
 --
 **Virtual Reality (VR) Automated Testing in the Wild: a Case Study on Unity-Based VR Applications**<br/>
