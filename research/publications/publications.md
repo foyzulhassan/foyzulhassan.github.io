@@ -9,6 +9,10 @@ permalink: /research/publications/
 Anwar Ghammam, Rania Khalsi, Marouane Kessentini and Foyzul Hassan<br/>
 ACM Transactions on Software Engineering and Methodology (TOSEM), 2024
 
+**PcMINER: Mining Performance Related Commits at Scale**<br/>
+Md Abul Kalam Azad, Manoj Alexender, Matthew Alexender, Syed Salauddin Mohammad Tariq, Foyzul Hassan and Probir Roy<br/>
+The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2024.(Poster Track)
+
 **Decoding and Answering Developers’ Questions about Web Services Managed by Marketplaces**<br/>
 Siddhi Baravkar, Chi Zhang, Foyzul Hassan, Long Cheng, and Zheng Song<br/>
 IEEE International Conference on Software Services Engineering (IEEE SSE), 2024
