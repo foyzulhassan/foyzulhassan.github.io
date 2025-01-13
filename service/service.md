@@ -10,6 +10,8 @@ Chair
 
 PC Members
 --
+**48th IEEE/ACM International Conference on Software Engineering (ICSE2026)**<br/>
+**22nd International Conference on Mining Software Repositories (MSR2025)**<br/>
 **39th IEEE/ACM International Conference on Automated Software Engineering (ASE2024)**<br/>
 **31st IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER2024)**<br/>
 **6th  International Conference on Technical Debt (TechDebt 2023)**<br/> 

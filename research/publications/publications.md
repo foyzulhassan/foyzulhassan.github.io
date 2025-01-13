@@ -3,6 +3,13 @@ layout: page
 title: Publications
 permalink: /research/publications/
 ---
+2025
+--
+**Build Scripts Need Maintenance Too: A Study on Refactoring and Technical Debt in Build Systems**<br/>
+Anwar Ghammam, Dhia Elhaq Rzig, Mohamed Almukhtar, Rania Khalsi, Foyzul Hassan and Marouane Kessentini<br/>
+International Conference on Mining Software Repositories (MSR) , Technical Paper, pp. To appear, 2025
+
+
 2024
 --
 **Efficient Management of Containers for Software Defined Vehicles**<br/>
