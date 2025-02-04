@@ -8,6 +8,7 @@ permalink: /research/publications/
 **Build Scripts Need Maintenance Too: A Study on Refactoring and Technical Debt in Build Systems**<br/>
 Anwar Ghammam, Dhia Elhaq Rzig, Mohamed Almukhtar, Rania Khalsi, Foyzul Hassan and Marouane Kessentini<br/>
 International Conference on Mining Software Repositories (MSR) , Technical Paper, pp. To appear, 2025
+<a href="/../../files/MSR25_Build_Refactoring.pdf" target="_blank">[preprint]</a>
 
 
 2024
