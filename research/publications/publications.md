@@ -5,6 +5,12 @@ permalink: /research/publications/
 ---
 2025
 --
+**Developer Prompts in Practice: An Empirical Study of Bias, Security, and Optimization**<br/>
+Dhia Elhaq Rzig, Dhruba Jyothi Paul, Kaiser Pister, Jordan Henkel and Foyzul Hassan<br/>
+ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), Technical Paper, pp. To appear, 2025
+<a href="/../../files/ESEM2025_PromptDoctor.pdf" target="_blank">[preprint]</a>
+
+
 **Build Scripts Need Maintenance Too: A Study on Refactoring and Technical Debt in Build Systems**<br/>
 Anwar Ghammam, Dhia Elhaq Rzig, Mohamed Almukhtar, Rania Khalsi, Foyzul Hassan and Marouane Kessentini<br/>
 International Conference on Mining Software Repositories (MSR) , Technical Paper, pp. To appear, 2025
