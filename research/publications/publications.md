@@ -5,6 +5,11 @@ permalink: /research/publications/
 ---
 2025
 --
+**Use of Generative AI Tools in Software Quality Assurance Work**<br/>
+Bruce Maxim, Zheng Song, Belen Garcia de Hurtado, Foyzul Hassan and Shimil Shijo<br/>
+Frontiers in Education Conference(FIE), 2025
+
+
 **Developer Prompts in Practice: An Empirical Study of Bias, Security, and Optimization**<br/>
 Dhia Elhaq Rzig, Dhruba Jyothi Paul, Kaiser Pister, Jordan Henkel and Foyzul Hassan<br/>
 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), Technical Paper, pp. To appear, 2025
