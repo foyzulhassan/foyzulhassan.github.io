@@ -5,6 +5,12 @@ permalink: /research/publications/
 ---
 2025
 --
+**VRTestSniffer: Test Smell Detector for Virtual Reality (VR) Software Projects**<br/>
+Faraz Gurramkonda, Avishak Chakroborty, Bruce Maxim, Mohamed Wiem Mkaouer and Foyzul Hassan<br/>
+Accepted at ACM/IEEE International Conference on Automated Software Engineering(ASE), Nov. 16 – Nov. 20, 2025
+<a href="/../../files/VRTestSniffer.pdf" target="_blank">[preprint coming soon]</a>
+
+
 **Use of Generative AI Tools in Software Quality Assurance Work**<br/>
 Bruce Maxim, Zheng Song, Belen Garcia de Hurtado, Foyzul Hassan and Shimil Shijo<br/>
 Frontiers in Education Conference(FIE), 2025
