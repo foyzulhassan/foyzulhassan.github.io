@@ -8,7 +8,7 @@ permalink: /research/publications/
 **VRTestSniffer: Test Smell Detector for Virtual Reality (VR) Software Projects**<br/>
 Faraz Gurramkonda, Avishak Chakroborty, Bruce Maxim, Mohamed Wiem Mkaouer and Foyzul Hassan<br/>
 Accepted at ACM/IEEE International Conference on Automated Software Engineering(ASE), Nov. 16 – Nov. 20, 2025
-<a href="/../../files/ASE2025_VRTestSmell.pdf" target="_blank">[preprint]</a>
+<a href="/../../files/ASE2025_VRTestSniffer.pdf" target="_blank">[preprint]</a>
 
 
 **Use of Generative AI Tools in Software Quality Assurance Work**<br/>
