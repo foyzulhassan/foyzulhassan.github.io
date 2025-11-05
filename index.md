@@ -30,6 +30,26 @@ Find more about the work I've done on my  <a href="/research/" target="_blank">r
 ## News
 <!--<table style="white-space: nowrap;"> -->
 <table>
+	<tr>
+	<td width="75"><b>Nov, 25'</b></td>
+	<td>Honored to receive the ASE 2025 Distinguished Reviewer Award! Thanks to the ASE chairs and PC members.</td> 
+	</tr>
+	<tr>
+	<td width="75"><b>Sep, 25'</b></td>
+	<td> Our paper on Test Smell for VR has accepted in ASE'25</td> 
+	</tr>
+	<tr>
+	<td width="75"><b>June, 25'</b></td>
+	<td> Our paper on Developer Prompts has accepted in ESEM'25</td> 
+	</tr>
+	<tr>
+	<td width="75"><b>Jan, 25'</b></td>
+	<td> Our paper on Build Scripts Refactoring has accepted in MSR'25</td> 
+	</tr>
+	<tr>
+	<td width="75"><b>April, 24'</b></td>
+	<td> Our paper on Efficient Management of Containers has accepted in TOSEM</td> 
+	</tr>
     <tr>
 	<td width="75"><b>May, 23'</b></td>
 	<td> Our paper on Virtual Reality Automated Testing Practice has accepted in ISSTA'23</td> 
