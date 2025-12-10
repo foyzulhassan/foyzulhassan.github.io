@@ -14,6 +14,7 @@ Accepted at ACM/IEEE International Conference on Automated Software Engineering(
 **Use of Generative AI Tools in Software Quality Assurance Work**<br/>
 Bruce Maxim, Zheng Song, Belen Garcia de Hurtado, Foyzul Hassan and Shimil Shijo<br/>
 Frontiers in Education Conference(FIE), 2025
+<a href="/../../files/FIE2025.pdf" target="_blank">[preprint]</a>
 
 
 **Developer Prompts in Practice: An Empirical Study of Bias, Security, and Optimization**<br/>
