@@ -3,6 +3,15 @@ layout: page
 title: Publications
 permalink: /research/publications/
 ---
+2026
+--
+**Cold-Start Anti-Patterns and Refactorings in Serverless Systems: An Empirical Study**<br/>
+Syed Salauddin Mohammad Tariq*, Foyzul Hassan, Amiangshu Bosu, and Probir Roy<br/>
+Accepted at IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER), 2026.
+<a href="/../../files/SANER2026.pdf" target="_blank">[preprint coming soon]</a>
+
+
+
 2025
 --
 **VRTestSniffer: Test Smell Detector for Virtual Reality (VR) Software Projects**<br/>
