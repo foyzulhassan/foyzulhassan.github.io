@@ -5,11 +5,14 @@ permalink: /research/publications/
 ---
 2026
 --
+**LLM-Guided Mining of Performance-Related Commits at Scale**<br/>
+Md Abul Kalam Azad, Syed Salauddin Mohammad Tariq, Foyzul Hassan, Diego Elias Costa, and  Probir Roy<br/>
+Accepted at the International Conference on Evaluation and Assessment in Software Engineering (EASE), AI Models/Data track, 2026.
+
 **Cold-Start Anti-Patterns and Refactorings in Serverless Systems: An Empirical Study**<br/>
 Syed Salauddin Mohammad Tariq*, Foyzul Hassan, Amiangshu Bosu, and Probir Roy<br/>
 Accepted at IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER), 2026.
 <a href="/../../files/SANER2026.pdf" target="_blank">[preprint coming soon]</a>
-
 
 
 2025
