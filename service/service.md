@@ -5,11 +5,15 @@ permalink: /service/
 ---
 Chair
 --
+**Workshops-Co-Chair: The 28th IEEE/ACM International Conference on Model Driven Engineering Languages and Systems (MODELS2025)**<br/>
 **Tutorials-Co-Chair: The 37th IEEE/ACM International Conference on Automated Software Engineering (ASE2022)**<br/>
 
 
 PC Members
 --
+**35th ACM International Conference on the Foundations of Software Engineering (FSE2026)**<br/>
+**49th IEEE/ACM International Conference on Software Engineering (ICSE2027)**<br/>
+**41st IEEE/ACM International Conference on Automated Software Engineering (ASE2026)**<br/>
 **35th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA2026)**<br/>
 **48th IEEE/ACM International Conference on Software Engineering (ICSE2026)**<br/>
 **40th IEEE/ACM International Conference on Automated Software Engineering (ASE2025)**<br/>
