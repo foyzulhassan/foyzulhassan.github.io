@@ -31,6 +31,10 @@ Find more about the work I've done on my  <a href="/research/" target="_blank">r
 <!--<table style="white-space: nowrap;"> -->
 <table>
 	<tr>
+	<td width="75"><b>July, 26'</b></td>
+	<td>NSF CISE Core grant <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2537321" target="_blank">#2537321</a> on DevOps Configuration Drift Detection has been awarded. Thanks, NSF!</td> 
+	</tr>
+	<tr>
 	<td width="75"><b>Nov, 25'</b></td>
 	<td>Honored to receive the ASE 2025 Distinguished Reviewer Award! Thanks to the ASE chairs and PC members.</td> 
 	</tr>
